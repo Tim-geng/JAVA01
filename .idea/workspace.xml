@@ -44,7 +44,7 @@
       <file leaf-file-name="text09.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day01/src/text09.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
+            <state relative-caret-position="309">
               <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
             </state>
           </provider>
@@ -88,7 +88,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="328" />
     <option name="y" value="23" />
     <option name="width" value="1433" />
@@ -248,15 +248,15 @@
       <option name="presentableId" value="Default" />
       <updated>1546477959545</updated>
       <workItem from="1546477960907" duration="334000" />
-      <workItem from="1546509441444" duration="11509000" />
+      <workItem from="1546509441444" duration="11934000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11843000" />
+    <option name="totallyTimeSpent" value="12268000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="562" y="18" width="1146" height="750" extended-state="0" />
+    <frame x="263" y="19" width="1146" height="750" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -269,7 +269,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32866043" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32866043" />
       <window_info anchor="right" id="Coverage" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
@@ -377,7 +377,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day01/src/text09.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
+        <state relative-caret-position="309">
           <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
         </state>
       </provider>
